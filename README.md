@@ -13,12 +13,12 @@ KITTI_with_FasterRCNN_2D_Object_Dection/
 │
 ├── notbook/
 │   ├── KITTI_Dataset.ipynb                       # Script for dataset explore
-│   ├── .ipynb              # Script for training the model
-│   ├── .ipynb              # Script for training the model
+│   ├── Kitti_Traning.ipynb                       # Script for training the model
+│   ├── Kitti_traning_LoadModel.ipynb             # Script for training the model
 │   └── Kitti_Dataset_Evaluation.ipynb            # Model performance Evaluation
 │
 │
-└── README.md                             # Project overview and instructions
+└── README.md                                     # Project overview and instructions
 ```
 
 ## Requirements
