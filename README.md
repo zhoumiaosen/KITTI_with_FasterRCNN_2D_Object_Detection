@@ -9,12 +9,13 @@ KITTI_with_FasterRCNN_2D_Object_Dection/
 │
 │
 ├── assets/
-│   └── plot             	          # Saved results
+│   └── plot             	                        # Saved results
 │
 ├── notbook/
-│   ├── DeepMIMO_Dataset.ipynb            # Script for dataset explore
-│   ├── Model_Training.ipynb              # Script for training the model
-│   └── Model_Performanc.ipynb            # Model performance tunning
+│   ├── KITTI_Dataset.ipynb                       # Script for dataset explore
+│   ├── .ipynb              # Script for training the model
+│   ├── .ipynb              # Script for training the model
+│   └── Kitti_Dataset_Evaluation.ipynb            # Model performance Evaluation
 │
 │
 └── README.md                             # Project overview and instructions
